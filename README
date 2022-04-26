@@ -1,0 +1,6 @@
+smart contract lottery
+1. monitor state
+start, only owner
+enter ticket price
+compute winner wher we shall use an external computaion/randomness provider
+end the lottery
